@@ -1,0 +1,52 @@
+[
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Calendar.csv",
+    "p_sink_folder": "AdvWorks_Calendar",
+    "p_sink_filename": "AdvWorks_Calendar.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Customers.csv",
+    "p_sink_folder": "AdvWorks_Customers",
+    "p_sink_filename": "AdvWorks_Customers.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Product_Categories.csv",
+    "p_sink_folder": "AdvWorks_Product_Categories",
+    "p_sink_filename": "AdvWorks_Product_Categories.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Product_Subcategories.csv",
+    "p_sink_folder": "AdvWorks_Subcategories",
+    "p_sink_filename": "AdvWorks_Subcategories.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Products.csv",
+    "p_sink_folder": "AdvWorks_Products",
+    "p_sink_filename": "AdvWorks_Products.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Returns.csv",
+    "p_sink_folder": "AdvWorks_Returns",
+    "p_sink_filename": "AdvWorks_Returns.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Sales_2015.csv",
+    "p_sink_folder": "AdvWorks_Sales_2015",
+    "p_sink_filename": "AdvWorks_Sales_2015.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Sales_2016.csv",
+    "p_sink_folder": "AdvWorks_Sales_2016",
+    "p_sink_filename": "AdvWorks_Sales_2016.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Sales_2017.csv",
+    "p_sink_folder": "AdvWorks_Sales_2017",
+    "p_sink_filename": "AdvWorks_Sales_2017.csv"
+  },
+  {
+    "p_rel_url": "rajkirangs25/DE-AdventureWorks/refs/heads/master/Data/AdventureWorks_Territories.csv",
+    "p_sink_folder": "AdvWorks_Territories",
+    "p_sink_filename": "AdvWorks_Territories.csv"
+  }
+]
